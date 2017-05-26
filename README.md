@@ -14,3 +14,5 @@
 6.stark提交到自己分支，申请合并到develop分支
 
 7.在develop上新建分支develop1，并在1上提交
+
+8.在develop上新建分支develop2，并在2上提交
